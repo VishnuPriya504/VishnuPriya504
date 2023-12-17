@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnupriya504&label=Profile%20views&color=0e75b6&style=flat" alt="vishnupriya504" /> </p>
 
-- 🔭 I’m currently working on **building protfolio**
+- 🔭 See my portfolio at **https://vishnupriya504.github.io/Personal-portfolio/**
 
 - 🌱 I’m currently learning **Full stack development**
 
 - 👯 I’m looking to collaborate on **open source projects on web development**
 
-- 💬 Ask me about **react,django,python**
+- 💬 Ask me about **react,Figma,Frontend web devlopment,django,python**
 
-- 📫 How to reach me **grandhipriya1@gmail.com**
+- 📫 Contact me at **grandhipriya1@gmail.com**
 
-- ⚡ Fun fact **i can drink 10 cups coffee in a day!**
+- ⚡ Fun fact **i can drink 6 cups coffee in a day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
